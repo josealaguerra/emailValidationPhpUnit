@@ -1,0 +1,20 @@
+{
+    "name": "josea/email-validation",
+    "description": "Email validation using PHPUnit for testing",
+    "authors": [
+        {
+            "name": "Jose Guerra",
+            "email": "josealaguerra@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "9.5"
+    }
+
+
+}
